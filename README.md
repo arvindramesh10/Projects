@@ -18,6 +18,8 @@ Libraries: NumPy, Pandas, Scikit-Learn. (specific requirements may vary for each
 
 MySQL Workbench (version 8.0)
 
+Power Bi (version 2.126.1261.0)
+
 **Usage**
 
 Clone this repository to your local machine using git clone.
